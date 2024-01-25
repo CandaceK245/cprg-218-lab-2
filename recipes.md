@@ -62,12 +62,13 @@ Ingredients:
 
 Instructions:
 1. Cook spaghetti according to package instructions.
-2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
-3. Form mixture into meatballs.
-4. In a large skillet, brown meatballs over medium-high heat.
-5. Add spaghetti sauce to the skillet and bring to a simmer.
-6. Reduce heat to low and let simmer for 10-15 minutes.
-7. Serve meatballs and sauce over spaghetti.
+2. Save 1 Cup of pasta water for sauce
+3. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
+4. Form mixture into meatballs.
+5. In a large skillet, brown meatballs over medium-high heat.
+6. Add spaghetti sauce to the skillet and bring to a simmer.
+7. Reduce heat to low and let simmer for 10-15 minutes.
+8. Serve meatballs and sauce over spaghetti.
 
 ### Grilled Chicken Sandwich
 
