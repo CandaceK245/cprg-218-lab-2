@@ -113,3 +113,20 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Whipped Shortbread Cookies
+
+Ingredients: 
+- 1 1/2 cups all-purpose flour
+- 1 cup unsalted butter, softened
+- 1/2 cup confectioners' sugar
+- optional: Red Maraschino cherries quartered
+- optional: Green Maraschino cherries quartered
+
+Instructions:
+1. preheat the oven to 350°F (175°C)
+2. Beat flour, butter, and confectioners' sugar with an electric mixer in a large bowl until light and fluffy, about 10 minutes.
+3. Drop spoonfuls of dough 2 inches apart onto ungreased baking sheets.
+4. Optional: place red or green maraschino cherries into middle of cookie.
+5. Bake for 15-17 minutes until light brown on the bottoms.
+6. Let cool for 5 minutes before transfering to wire rack to cool.
